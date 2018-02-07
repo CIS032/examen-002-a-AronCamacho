@@ -5,9 +5,9 @@
 - Coloque finalmente en este mismo archivo los datos que se le solicita
 
 ## Datos:
-- Nombres:
-- Fecha de entrega:
-- Hora de entrega:
-- Observaciones:
+- Nombres:  ANDY ARON CAMACHO HERREA
+- Fecha de entrega: 2018/02/7
+- Hora de entrega:  10:30
+- Observaciones: 
 
 
